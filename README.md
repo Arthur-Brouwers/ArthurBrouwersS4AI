@@ -4,8 +4,6 @@
 ## Intro
 Welcome to my GitHub portfolio for Semester 4 projects! As a dedicated learner and aspiring developer, I have created this portfolio to showcase my skills, experiences, and accomplishments in various projects undertaken during my studies.
 
-In this portfolio, you will find a range of projects including web development and software development. Each project is accompanied by a brief description, its purpose, and the technologies used. You can explore the code, read the documentation, and see the outcomes of each project.
-
 Overall, this portfolio represents my passion for learning, developing, and sharing my knowledge with others. I hope you find it informative and engaging, and it inspires you to collaborate or learn from me.
 
 
