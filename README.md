@@ -2,14 +2,14 @@
 *By Arthur Brouwers*
 
 ## Intro
-Welcome to my GitHub portfolio for Semester 4 projects! As a dedicated learner and aspiring developer, I have created this portfolio to showcase my skills, experiences, and accomplishments in various projects undertaken during my studies.
+Welcome to my GitHub portfolio showcasing my Semester 4 projects! I'm an enthusiastic learner and aspiring developer, and I've put together this portfolio to highlight my skills, experiences, and achievements from my recent studies.
 
-Overall, this portfolio represents my passion for learning, developing, and sharing my knowledge with others. I hope you find it informative and engaging, and it inspires you to collaborate or learn from me.
-
+This portfolio reflects my deep passion for learning, coding, and sharing knowledge. I aim to provide valuable insights and inspiration to others while fostering potential collaborations. I hope you find it both informative and inspiring, and I look forward to potential opportunities for learning and collaboration together.
 
 ## Project Organizations
 
 ## Documentation
+- [Individual Project](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/Documentation)
 
 ## Data Preparation & Analysis
 <table>
