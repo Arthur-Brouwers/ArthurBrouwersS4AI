@@ -9,7 +9,7 @@ This portfolio reflects my deep passion for learning, coding, and sharing knowle
 ## Project Organizations
 
 ## Documentation
-- [Individual Project](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/Documentation)
+- [Individual Project](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation)
 
 ## Data Preparation & Analysis
 <table>
