@@ -1,5 +1,6 @@
 # Project proposal
 ### House price prediction
+![image](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/assets/124791770/a0699017-1472-4c08-a93d-b6b940f7df67)
 
 ## Introduction
 For the personal challenge this semester, I had to choose someone who is an expert in his or hers work.
