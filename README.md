@@ -99,7 +99,7 @@ This portfolio reflects my deep passion for learning, coding, and sharing knowle
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td></td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -119,7 +119,7 @@ This portfolio reflects my deep passion for learning, coding, and sharing knowle
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td></td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
