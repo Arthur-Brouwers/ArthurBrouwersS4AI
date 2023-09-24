@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio showcasing my Semester 4 projects! I'm an enthusi
 This portfolio reflects my deep passion for learning, coding, and sharing knowledge. I aim to provide valuable insights and inspiration to others while fostering potential collaborations. I hope you find it both informative and inspiring, and I look forward to potential opportunities for learning and collaboration together.
 
 ## Documentation
-- [Individual Project](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation)
+- [Individual Repository](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation)
 
 ## Data Preparation & Analysis
 <table>
