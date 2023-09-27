@@ -1,10 +1,9 @@
-# Portfolio Semester 4
+# Personal Development Report Semester 4
 *By Arthur Brouwers*
 
 ## Intro
-Welcome to my GitHub portfolio showcasing my Semester 4 projects! I'm an enthusiastic learner and aspiring developer, and I've put together this portfolio to highlight my skills, experiences, and achievements from my recent studies.
-
-This portfolio reflects my deep passion for learning, coding, and sharing knowledge. I aim to provide valuable insights and inspiration to others while fostering potential collaborations. I hope you find it both informative and inspiring, and I look forward to potential opportunities for learning and collaboration together.
+Welcome to my PDR showcasing my Semester 4 projects! I'm an enthusiastic learner and developer, and I've put together this PDR to highlight my experiences and achievements during semester 4 of Artificial Intelligence.
+This PDR will provide insight in my thoughts and efforts this semester.
 
 ## Documentation
 - [Individual Repository](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation)
@@ -17,13 +16,13 @@ This portfolio reflects my deep passion for learning, coding, and sharing knowle
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td></td>
+    <td>Orienting</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          
+          I completed the challenges of the first weeks and it went fairly well. Regarding the data preparation, I've attempted preparing and cleaning my data and in my [personal challenge](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Personal%20Challenge/Home%20appraisal.ipynb). I did this by removing the unnecessary text or signs in a column. For example, in the column of Rooms, the data would be 5 bedrooms. I removed the "bedrooms", so I could read it as numerical.
         </p>
     </td>
   </tr>
@@ -37,7 +36,7 @@ This portfolio reflects my deep passion for learning, coding, and sharing knowle
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td></td>
+    <td>Orienting</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
