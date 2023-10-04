@@ -6,7 +6,8 @@ Welcome to my PDR showcasing my Semester 4 projects! I'm an enthusiastic learner
 This PDR will provide insight in my thoughts and efforts this semester.
 
 ## Documentation
-- [Individual Repository](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation)
+- [Exercises](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation/Exercises#readme)
+- [Personal Challenge](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation/Personal%20Challenge#readme)
 
 ## Evaluations
 |Evaluation|Link|
