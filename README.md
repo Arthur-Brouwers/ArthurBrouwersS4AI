@@ -1,5 +1,6 @@
 # Personal Development Report Semester 4
 *By Arthur Brouwers*
+![3dgifmaker73921](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/assets/124791770/48b5514c-f52a-49c5-a96e-20f158e4af6d)
 
 ## Intro
 Welcome to my PDR showcasing my Semester 4 projects! I'm an enthusiastic learner and developer, and I've put together this PDR to highlight my experiences and achievements during semester 4 of Artificial Intelligence.
