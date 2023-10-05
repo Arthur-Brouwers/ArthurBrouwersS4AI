@@ -10,7 +10,8 @@ This PDR will provide insight in my thoughts and efforts this semester.
 - [Exercises](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation/Exercises#readme)
 - [Personal Challenge](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation/Personal%20Challenge#readme)
 
-## Evaluations
+## Learning outcomes
+Learning outcomes and self assessments
 |Evaluation|Link|
 |:----|:--:|
 |1|[🔗](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Evaluations/Evaluation%201.md)|
