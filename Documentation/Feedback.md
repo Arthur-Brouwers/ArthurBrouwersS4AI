@@ -1,5 +1,6 @@
 # Feedback
-Here is the feedback I got from my teachers over the weeks devided by subject and week:
+Here is the feedback I got from my teachers over the weeks devided by subject and week.
+
 I highlighted the most important feedback, and if you click it, it leads you to the corresponding exercise.
 | Week | Machine Learning | Societal Impact | Data Analytics & Investigative Analysis |
 |------|------------------|-----------------|----------------------------------------|
