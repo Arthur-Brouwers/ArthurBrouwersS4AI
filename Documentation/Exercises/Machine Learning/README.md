@@ -6,4 +6,4 @@
 |2|[🔗](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation/Exercises/Machine%20Learning/Weeks/Week%202)|
 |3|[🔗](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/tree/main/Documentation/Exercises/Machine%20Learning/Weeks/Week%203)|
 |4|[🔗](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Exercises/Machine%20Learning/Weeks/Arthur-iris-clustering.html)|
-|4|[🔗](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Exercises/Machine%20Learning/Weeks/pokemon-classification.html)|
+|5|[🔗](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Exercises/Machine%20Learning/Weeks/pokemon-classification.html)|
