@@ -75,13 +75,13 @@
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Orienting</td>
+    <td>Beginning</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-         The AI Project Methodology is new to me, so I am trying to use it. I completed iteration 0 for my <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Personal%20Challenge/Home%20appraisal.ipynb">personal challenge</a> according to the AI Project Methodology. While I do think I did a good job on it, I should document it in a way so my stakeholders can see what steps have been taken during the project. 
+         I am still getting bit used to the AI methodology. However, I think my documentation is much better for research and the interview with the stakeholder. I also keep my stakeholder more in the loop with the improvements, since the interview was held. 
         </p>
     </td>
   </tr>
@@ -98,10 +98,10 @@
     <td>Orienting</td>
   </tr>
   <tr>
-    <th><strong>Explanation</strong></th>
+    <th><strong>Beginning</strong></th>
     <td>
         <p>          
-          I think this is really one of the stronger aspects for me. I am not scared to ask questions if something is not yet clear for me and I won't shy away to be the first one to ask for feedback. I understand the importance of feedback, but I could discuss a little bit more with my fellow students, such as what they have for domain understanding or PDR. As of now, I would say it is on orienting, but towards beginning. 
+          I think this is really one of the stronger aspects for me. I am not scared to ask questions if something is not yet clear for me and I won't shy away to be the first one to ask for feedback. One of my biggest pitfalls is unjustified self-doubt. I tend to set the standards quite high for myself, but sometimes the highest standard is simply not achievable. 
         </p>
     </td>
   </tr>
