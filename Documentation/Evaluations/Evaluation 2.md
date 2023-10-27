@@ -42,8 +42,8 @@
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          I completed all of the exercises for both DAIA and Machine Learning and always try to explain what happens and why I am doing it. 
-        </p>
+          I completed all of the exercises for both DAIA and Machine Learning and always try to explain what happens and why I am doing it. In my personal challenge, I did my feature selection by the knowledge I gained from my research, interview and heatmap combined. I used kNN in my personal project, however, I do want to change the model as I think kNN is not the best model to use for me. 
+
   </tr>
 </table>
 
