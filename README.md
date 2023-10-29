@@ -16,3 +16,4 @@ Learning outcomes and self assessments
 |Evaluation|Link|
 |:----|:--:|
 |1|[🔗](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Evaluations/Evaluation%201.md)|
+|2|[🔗](https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Evaluations/Evaluation%202.md)|
