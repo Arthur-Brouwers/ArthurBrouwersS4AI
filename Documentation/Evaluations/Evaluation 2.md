@@ -12,19 +12,17 @@
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          I completed the given exercises for data cleaning. In my <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Personal%20Challenge/Home%20appraisal.ipynb">personal challenge</a>, I cleaned my data by:</br>
-            - Removing non-numerical values (€ and Prijs op aanvraag) from the Price column </br>
-            - Removing m2 from the Lot size column</br>
-            - Removing m2 from the Living space size column</br>
-            - Removing non-numerical values (Voor 1906 and Na 2020) from the Build year column</br>
-            - Splitting the multiple values in Rooms in Total rooms and Bedrooms</br>
-            - Splitting the multiple values in Toilet in Bathrooms and Toilets</br>
-            - Changing the Energy label to numerical values</br>
-            - Removing the values where Energy label is "Niet verplicht'</br>
-          </br>
-          Ofcourse I also made a heatmap to show correlations between the features: </br>
+          I completed the given exercises for data cleaning. In the exercises I mainly focussed on the missing values at first. I found out that replacing the value by the mean or mode would be the best option, but I dont know which one works best for each scenario.</br>
+Niek also agreed on this: <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md">"Did you also check what the effect is of replacing missing values with mean or mode? And can you explain WHY it is important or needed to fill the missing values with actual values, or could deletion also be an option?"</a> 
+</br>
+  </br>
+          Altough I had some difficulties with the exercises, I think I managed to clean the data in my personal challenge quite well.</br>
+          In my <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Personal%20Challenge/Home%20appraisal.ipynb">personal             
+          challenge</a>, I've attempted to clean my data to the point that a heatmap could be created.
+          I made the heatmap to show correlations between the features: </br>
           <img src="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/assets/124791770/c8bee735-5e6d-4cb7-99b4-a391494dfab3" alt="Image"></br>
           There is still some work to do, such as adding more features and aligning the features at the bottom.
+          
   </tr>
 </table>
 
@@ -32,7 +30,7 @@
 <table>
   <tr>
     <th><strong>Learning Outcome</strong></th>
-    <td>"You use software tooling and methodology that continuously monitors and improve the software quality during software development."</td>
+    <td>"You are able to use findings from data analysis to preprocess data, apply machine learning algorithms and evaluate the quality and usefulness of produced models, for a defined domain."</td>
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
@@ -42,7 +40,12 @@
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          I completed all of the exercises for both DAIA and Machine Learning and always try to explain what happens and why I am doing it. In my personal challenge, I did my feature selection by the knowledge I gained from my research, interview and heatmap combined. I used kNN in my personal project, however, I do want to change the model as I think kNN is not the best model to use for me. 
+          I completed all of the exercises for both DAIA and Machine Learning and always try to explain what happens and why I am doing it. I begin to understand the models and their concept better. 
+          I also understand the problem of overfitting.</br>
+  Jacco agrees: <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md">"You have performed cross-validation correctly and understand there might be problems with overfitting."</a>
+          </br> 
+          </br> 
+          In my personal challenge, I did my feature selection by the knowledge I gained from my research, interview and heatmap combined. I used kNN in my personal project, however, I do want to change the model as I think kNN is not the best model to use for me. 
 
   </tr>
 </table>
@@ -61,7 +64,10 @@
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          In the exercises of both DAIA and Machine Learning, I always try to explain why I did specific things. In my personal challenge this becomes even clearer due to the clear headings and explanation. The explanation could be better in some cases, so that is why I consider this learning outcome as orienting.
+          In the exercises of both DAIA and Machine Learning, I always try to explain why I did specific things.</br>
+          Jacco also agrees on for example the Decision tree exercise: <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md">"You clearly explain the parameters of the decision tree algorithm and understand the importance of overfitting." </a></br>
+          In my personal challenge this becomes even clearer due to the clear headings and explanation. I feel like the explanation could be better for DAIA.</br>
+          Niek agrees on this according to the following feedback: <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md">"And can you explain WHY it is important ..."</a>
         </p>
     </td>
   </tr>
