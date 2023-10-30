@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Orienting</td>
+    <td>Beginning</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
@@ -95,10 +95,10 @@
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Orienting</td>
+    <td>Beginning</td>
   </tr>
   <tr>
-    <th><strong>Beginning</strong></th>
+    <th><strong>Explanation</strong></th>
     <td>
         <p>          
           I think this is really one of the stronger aspects for me. I am not scared to ask questions if something is not yet clear for me and I won't shy away to be the first one to ask for feedback. One of my biggest pitfalls is unjustified self-doubt. I tend to set the standards quite high for myself, but sometimes the highest standard is simply not achievable. 
