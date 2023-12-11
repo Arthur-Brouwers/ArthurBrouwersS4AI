@@ -6,17 +6,23 @@
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td>Beginning</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-        I have worked on cleaning my data to use it in models and visualise it. I also added postcode to my data since it was not present in the dataset. I explain what my data contains by visualising it and I can explain strange data. 
+          I completed the given exercises for data cleaning. In the exercises I mainly focussed on the missing values at first. I found out that replacing the value by the mean or mode would be the best option, but I dont know which one works best for each scenario.</br>
+Niek also agreed on this: <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md">"Did you also check what the effect is of replacing missing values with mean or mode? And can you explain WHY it is important or needed to fill the missing values with actual values, or could deletion also be an option?"</a> 
 </br>
-Anna Kadurina peer reviewed me and gave me the following feedback: "Before you do any changes such as the Postcode, or the other Data Preparation steps, you need to explore the data a bit. See what you have already, so create a Data Understanding chapter, and then make all the changes. (Novemebr 29th)".
   </br>
-  Before I got her feedback, my data exploration was very small and I have made more visualisations to understand the data.
+          Altough I had some difficulties with the exercises, I think I managed to clean the data in my personal challenge quite well.</br>
+          In my <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Personal%20Challenge/Home%20appraisal.ipynb">personal             
+          challenge</a>, I've attempted to clean my data to the point that a heatmap could be created.
+          I made the heatmap to show correlations between the features: </br>
+          <img src="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/assets/124791770/c8bee735-5e6d-4cb7-99b4-a391494dfab3" alt="Image"></br>
+          There is still some work to do, such as adding more features and aligning the features at the bottom.
+          
   </tr>
 </table>
 
@@ -28,26 +34,19 @@ Anna Kadurina peer reviewed me and gave me the following feedback: "Before you d
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Pro</td>
+    <td>Beginning</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          <h2>Nearest Neighbours</h2>
-          I used four models to try to make the best possible prediction. I started with nearest neighbours, however the accuracy was only ~5%. 
-          </br>
-  </br>
-  <h2>Linear Regression</h2>
-          Then I tried linear regression as I thought the relation between the features and price could have been linear. The model gave me an R2 of 65 which is decent, but I defined in my analytic approach that I want to aim for 70-80% accurate so I wanted to see if there was another model that has a higher accuracy.
-          </br>
-  </br>
-  <h2>Clustering</h2>
-          I got the idea from Niek to cluster the data and then use a model to make a more accurate prediction using the cluster's data. Since location is the most important feature for determining the house price, I tried to make clusters based on postcode since they are the best indicator for location. The count of unique postcodes in my dataset is around 1800 and the amount of rows is around 5000. I visualised that some of the postcodes only had one datarow, so it has no data to relate to. Although I believe this would be a good way to make more accurate predictions, it did not work in my project, most likely due to the size of the dataset. 
-  </br>
-  </br>
-  <h2>Random Forest</h2>
-  Then I tried random forest. Random forest gave me the best accuracy with an R2 of 79. The mean percentage error is 15%, while the margin for home appraisers is 10%. My stakeholder did some inference with his houses for sale. The errors in the predictions were within the margin for home appraisers (<10%), since my stakeholder is active in the middle class houses. The mean percentage error is influenced by the outliers as well, so in the middle class houses the error would be smaller. 
+          I completed all of the exercises for both DAIA and Machine Learning and always try to explain what happens and why I am doing it. I begin to understand the models and their concept better. 
+          I also understand the problem of overfitting.</br>
+  Jacco agrees: <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md">"You have performed cross-validation correctly and understand there might be problems with overfitting."</a>
+          </br> 
+          </br> 
+          In my personal challenge, I did my feature selection by the knowledge I gained from my research, interview and heatmap combined. I used kNN in my personal project, however, I do want to change the model as I think kNN is not the best model to use for me. 
+
   </tr>
 </table>
 
@@ -59,13 +58,16 @@ Anna Kadurina peer reviewed me and gave me the following feedback: "Before you d
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Beginning</td>
+    <td>Orienting</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          I explain what I am doing in my personal challenge by adding comments with explanations and how to interpet the data. Temuulen Munkh-Erdene had to peer review me and he agreed: "The model makes sense and has comments, so they are clear. (November 30th)"
+          In the exercises of both DAIA and Machine Learning, I always try to explain why I did specific things.</br>
+          Jacco also agrees on for example the Decision tree exercise: <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md">"You clearly explain the parameters of the decision tree algorithm and understand the importance of overfitting." </a></br>
+          In my personal challenge this becomes even clearer due to the clear headings and explanation. I feel like the explanation could be better for DAIA.</br>
+          Niek agrees on this according to the following feedback: <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md">"And can you explain WHY it is important ..."</a>
         </p>
     </td>
   </tr>
@@ -79,19 +81,13 @@ Anna Kadurina peer reviewed me and gave me the following feedback: "Before you d
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td>Beginning</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-         I worked on the project according to the AI methodology. I tried to follow the phases to make the process go as smooth as possible. Sometimes I did something in a different order, but I followed the general lines of the AI methodology. 
-        </br>
-        </br>
-  In involved my stakholder by interviewing him and in the end, showed him the final project by letting him do inference in the frontend. He was very pleasant with the outcome of the project. Nick Welman agrees on me having involved the stakeholder in a good way: "the stakeholder is involved in a constructive way (November 28th)". 
-  </br>
-    </br>
-I also played the moral design game where I made nuanced choices based on the character I had to play. 
+         I am still getting bit used to the AI methodology. However, I think my documentation is much better for research and the interview with the stakeholder. I also keep my stakeholder more in the loop with the improvements, since the interview was held. 
         </p>
     </td>
   </tr>
@@ -105,16 +101,13 @@ I also played the moral design game where I made nuanced choices based on the ch
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Proficient</td>
+    <td>Beginning</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>          
-          I did the exercise on Personal Leadership. By doing this exercise, I was more aware of my qualities and what I love to do. 
-            </br>
-            </br>
-          I asked feedback frequently and implemented the given feedback. I also talked to fellow students about issues I had and that way we helped eachother. When I missed the day where the exercise for personal leadership was done, me and my groupmembers decided to catch up by doing the exercise our self.
+          I think this is really one of the stronger aspects for me. I am not scared to ask questions if something is not yet clear for me and I won't shy away to be the first one to ask for feedback. One of my biggest pitfalls is unjustified self-doubt. I tend to set the standards quite high for myself, but sometimes the highest standard is simply not achievable. 
         </p>
     </td>
   </tr>
@@ -134,7 +127,7 @@ I also played the moral design game where I made nuanced choices based on the ch
     <th><strong>Explanation</strong></th>
     <td>
         <p>          
-          I aquired an internship at Squadra in Oss, but the actual assignment is yet to be determined. It would be something with webscraping for PowerEnrich where I would work on the front- and backend.
+          I aquired an internship at Squadra in Oss, but the actual assignment is yet to be determined.
         </p>
     </td>
   </tr>
