@@ -131,7 +131,7 @@ I also played the moral design game where I made nuanced choices based on the ch
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Beginning</td>
+    <td>Proficient</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
