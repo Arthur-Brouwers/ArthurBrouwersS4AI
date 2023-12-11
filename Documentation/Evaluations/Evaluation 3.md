@@ -66,6 +66,9 @@ Anna Kadurina peer reviewed me and gave me the following feedback: "Before you d
     <td>
         <p>
           I explain what I am doing in my personal challenge by adding comments with explanations and how to interpet the data. Temuulen Munkh-Erdene had to peer review me and he agreed: "The model makes sense and has comments, so they are clear. (November 30th)"
+</br>
+  </br>
+I could have explained better how the models work, but overall I think I explain the most important aspects in the project
         </p>
     </td>
   </tr>
