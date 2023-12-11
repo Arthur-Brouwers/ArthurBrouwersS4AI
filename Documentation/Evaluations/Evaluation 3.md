@@ -28,7 +28,7 @@ Anna Kadurina peer reviewed me and gave me the following feedback: "Before you d
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Pro</td>
+    <td>Proficient</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
