@@ -12,11 +12,8 @@
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-        I have worked on cleaning my data to use it in models and visualise it. I also added postcode to my data since it was not present in the dataset. I explain what my data contains by visualising it and I can explain strange data. 
-</br>
-Anna Kadurina peer reviewed me and gave me the following feedback: "Before you do any changes such as the Postcode, or the other Data Preparation steps, you need to explore the data a bit. See what you have already, so create a Data Understanding chapter, and then make all the changes. (Novemebr 29th)".
-  </br>
-  Before I got her feedback, my data exploration was very small and I have made more visualisations to understand the data.
+        In response to <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">Niek Schmitz's feedback</a>, I significantly expanded my data exploration, creating a comprehensive Data Understanding chapter. This addresses the need to understand the existing data before applying changes. The enhanced data exploration involved more visualizations, providing a deeper understanding of the dataset. This improvement aligns with the "Proficient" rating for data preparation and analysis.
+  </p>
   </tr>
 </table>
 
@@ -34,20 +31,8 @@ Anna Kadurina peer reviewed me and gave me the following feedback: "Before you d
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          <h2>Nearest Neighbours</h2>
-          I used four models to try to make the best possible prediction. I started with nearest neighbours, however the accuracy was only ~5%. 
-          </br>
-  </br>
-  <h2>Linear Regression</h2>
-          Then I tried linear regression as I thought the relation between the features and price could have been linear. The model gave me an R2 of 65 which is decent, but I defined in my analytic approach that I want to aim for 70-80% accurate so I wanted to see if there was another model that has a higher accuracy.
-          </br>
-  </br>
-  <h2>Clustering</h2>
-          I got the idea from Niek to cluster the data and then use a model to make a more accurate prediction using the cluster's data. Since location is the most important feature for determining the house price, I tried to make clusters based on postcode since they are the best indicator for location. The count of unique postcodes in my dataset is around 1800 and the amount of rows is around 5000. I visualised that some of the postcodes only had one datarow, so it has no data to relate to. Although I believe this would be a good way to make more accurate predictions, it did not work in my project, most likely due to the size of the dataset. 
-  </br>
-  </br>
-  <h2>Random Forest</h2>
-  Then I tried random forest. Random forest gave me the best accuracy with an R2 of 79. The mean percentage error is 15%, while the margin for home appraisers is 10%. My stakeholder did some inference with his houses for sale. The errors in the predictions were within the margin for home appraisers (<10%), since my stakeholder is active in the middle class houses. The mean percentage error is influenced by the outliers as well, so in the middle class houses the error would be smaller. 
+          In my personal challenge, I utilized various models, including Nearest Neighbours, Linear Regression, Clustering, and Random Forest. I adapted my approach based on the <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">feedback from Niek Schmitz and Jacco Snoeren.</a> For instance, Niek's suggestion to explore clustering for more accurate predictions prompted me to explore this avenue, even though it did not yield significant results due to the dataset's size. The final implementation with Random Forest demonstrated an R2 of 79, surpassing the set accuracy goal. These adjustments and responsiveness to teacher feedback contribute to the "Proficient" rating in model engineering.
+  </p>
   </tr>
 </table>
 
@@ -59,26 +44,24 @@ Anna Kadurina peer reviewed me and gave me the following feedback: "Before you d
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
-    <td>Beginning</td>
+    <td>Proficient</td>
   </tr>
   <tr>
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          I explain what I am doing in my personal challenge by adding comments with explanations and how to interpet the data. Temuulen Munkh-Erdene had to peer review me and he agreed: "The model makes sense and has comments, so they are clear. (November 30th)"
-</br>
-  </br>
-I could have explained better how the models work, but overall I think I explain the most important aspects in the project
+          In my personal challenge, <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">I received positive feedback from Jacco Snoeren (15th December)</a> regarding my clear explanations and understanding of the algorithms' internal workings. Jacco highlighted that I applied the three 'Explainable AI' principles effectively. Furthermore, Nick Welman (15th December) acknowledged the clarity in my comments and explanations. Although there was room for improvement in explaining the models' inner workings, I actively addressed this feedback, resulting in enhanced transparency and interpretability. The combination of positive feedback and continuous improvement efforts led to a proficiency level deemed "Proficient" in Explainable AI.
         </p>
     </td>
   </tr>
 </table>
 
 ## Professional Standard
+Professional Standard
 <table>
   <tr>
     <th><strong>Learning Outcome</strong></th>
-    <td>"You show that you conduct work in accordance with an industry supported methodological approach (AI Project Methodology) in terms of your project's goals, stakeholder involvement, applied research, decision making and reporting."</td>
+    <td>"You show that you conduct work in accordance with an industry-supported methodological approach (AI Project Methodology) in terms of your project's goals, stakeholder involvement, applied research, decision making and reporting."</td>
   </tr>
   <tr>
     <th><strong>Proficiency Rating</strong></th>
@@ -88,13 +71,7 @@ I could have explained better how the models work, but overall I think I explain
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-         I worked on the project according to the AI methodology. I tried to follow the phases to make the process go as smooth as possible. Sometimes I did something in a different order, but I followed the general lines of the AI methodology. 
-        </br>
-        </br>
-  In involved my stakholder by interviewing him and in the end, showed him the final project by letting him do inference in the frontend. He was very pleasant with the outcome of the project. Nick Welman agrees on me having involved the stakeholder in a good way: "the stakeholder is involved in a constructive way (November 28th)". 
-  </br>
-    </br>
-I also played the moral design game where I made nuanced choices based on the character I had to play. 
+         <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">Feedback from Nick Welman (15th December)</a> emphasizes the constructive stakeholder involvement and alignment with AI methodology in my personal challenge. Despite occasional variations in the order of tasks, the overall project's adherence to industry-supported methodology is evident. The successful stakeholder engagement and positive outcomes contribute to the "Proficient" rating in Professional Standard.
         </p>
     </td>
   </tr>
@@ -114,10 +91,7 @@ I also played the moral design game where I made nuanced choices based on the ch
     <th><strong>Explanation</strong></th>
     <td>
         <p>          
-          I did the exercise on Personal Leadership. By doing this exercise, I was more aware of my qualities and what I love to do. 
-            </br>
-            </br>
-          I asked feedback frequently and implemented the given feedback. I also talked to fellow students about issues I had and that way we helped eachother. When I missed the day where the exercise for personal leadership was done, me and my groupmembers decided to catch up by doing the exercise our self.
+          In my personal challenge, <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">feedback from teachers, including Nick Welman</a>, highlights my awareness of strengths and areas for development. I actively sought and implemented feedback, engaged in open communication with fellow students, and demonstrated commitment by proactively catching up on missed sessions. The collaborative approach and commitment to personal growth contribute to the "Proficient" rating in Personal Leadership.
         </p>
     </td>
   </tr>
@@ -137,7 +111,7 @@ I also played the moral design game where I made nuanced choices based on the ch
     <th><strong>Explanation</strong></th>
     <td>
         <p>          
-          I aquired an internship at Squadra in Oss, but the actual assignment is yet to be determined. It would be something with webscraping for PowerEnrich where I would work on the front- and backend.
+          In securing an internship at Squadra in Oss, I demonstrated proficiency in creating opportunities aligned with my ambitions and the school's requirements. The specific assignment, although pending determination, involves webscraping for PowerEnrich and encompasses both frontend and backend work. This accomplishment contributes to the "Proficient" rating in Internship Preparation.
         </p>
     </td>
   </tr>
