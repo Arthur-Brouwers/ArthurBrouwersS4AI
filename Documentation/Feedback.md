@@ -20,7 +20,7 @@ The final feedback for my personal challenge with their ratings
 | Jacco Snoeren    | 15 December | Sufficient    | - You apply the necessary preprocessing for your dataset including normalization.                                                      |
 |                  |            | Sufficient    | - You apply different models and explain reasoning to use each of them. You understand the algorithms well.                                |
 |                  |            | Good          | - You apply the right evaluation for the right problem, and did some research into good evaluation methods for clustering.                 |
-|                  |            |               | - Additional Feedback: _You apply hyperparameter optimization as well as boosting, and apply cross-validation as well._                  |
+|                  |            |               | - Additional Feedback: <a href="">You apply hyperparameter optimization as well as boosting, and apply cross-validation as well.</a>                 |
 | Niek Schmitz     | 11 December | Sufficient    | - Found a rich source but did not critically examine it. Improved based on last feedback talk(s).                                       |
 |                  |            | Sufficient    | - Proposal lacks critical examination of the data source. Improved based on last feedback talk(s).                                       |
 |                  |            | Sufficient    | - Focus on reading data, not on the entire process of collecting. Improved based on last feedback talk(s).                              |
@@ -28,5 +28,5 @@ The final feedback for my personal challenge with their ratings
 |                  |            |               | - Actions Taken: Updated data requirements table and added a Data dictionary. Changed pie chart for House types to a bar chart. Added plots for visualizing changes in data after cleaning. Removed toilet and bedrooms from features for the final random forest. |
 | Nick Welman      | 15 December | Sparse        | - Proposal lacks a proper Introduction.                                                                                                |
 |                  |            | Sparse        | - Delivery phase is unclear, and there is no mention of inference.                                                                      |
-|                  |            | Sufficient    | - _Explainable AI LO is addressed, but the stakeholder cannot see how your model works in the notebook._                                |
+|                  |            | Sufficient    | - <a href="">Explainable AI LO is addressed, but the stakeholder cannot see how your model works in the notebook.</a>                                |
 
