@@ -15,18 +15,18 @@ I highlighted the most important feedback, and if you click it, it leads you to 
 
 ## Personal challenge feedback
 The final feedback for my personal challenge with their ratings
-| Teacher          | Date       | Rating        | Feedback Points                                                                                                                           |
-|------------------|------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Jacco Snoeren    | 15 December | Sufficient    | - You apply the necessary preprocessing for your dataset including normalization.                                                      |
-|                  |            | Sufficient    | - You apply different models and explain reasoning to use each of them. You understand the algorithms well.                                |
-|                  |            | Good          | - You apply the right evaluation for the right problem, and did some research into good evaluation methods for clustering.                 |
-|                  |            |               | - Additional Feedback: <a href="">You apply hyperparameter optimization as well as boosting, and apply cross-validation as well.</a>                 |
-| Niek Schmitz     | 11 December | Sufficient    | - Found a rich source but did not critically examine it. Improved based on last feedback talk(s).                                       |
-|                  |            | Sufficient    | - Proposal lacks critical examination of the data source. Improved based on last feedback talk(s).                                       |
-|                  |            | Sufficient    | - Focus on reading data, not on the entire process of collecting. Improved based on last feedback talk(s).                              |
-|                  |            | Sufficient    | - Difficulty finding related sections/code. Improved based on last feedback talk(s).                                                     |
-|                  |            |               | - Actions Taken: Updated data requirements table and added a Data dictionary. Changed pie chart for House types to a bar chart. Added plots for visualizing changes in data after cleaning. Removed toilet and bedrooms from features for the final random forest. |
-| Nick Welman      | 15 December | Sparse        | - Proposal lacks a proper Introduction.                                                                                                |
-|                  |            | Sparse        | - Delivery phase is unclear, and there is no mention of inference.                                                                      |
-|                  |            | Sufficient    | - <a href="">Explainable AI LO is addressed, but the stakeholder cannot see how your model works in the notebook.</a>                                |
+| Teacher          | Date       | Rating        | Criteria          | Feedback Points                                                                                                                           |
+|------------------|------------|---------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Jacco Snoeren    | 15 December | Sufficient    | phase3 Preprocessing     | You apply the necessary preprocessing for your dataset including normalization.                                                      |
+|                  |            | Sufficient    | phase3 Modelling   | You apply different models and explain reasoning to use each of them. You understand the algorithms well.                                |
+|                  |            | Good          | phase3 Evaluation        | You apply the right evaluation for the right problem, and did some research into good evaluation methods for clustering. <a href="">You apply hyperparameter optimization as well as boosting, and apply cross-validation as well.</a>                |
+| Niek Schmitz     | 11 December | Sufficient    | phase1 Data sourcing | Found a rich source but did not critically examine it. Improved based on last feedback talk(s).                                       |
+|                  |            | Sufficient    | phase2 Data requirements | this part should not be in the proposal. Additionally, looking at your domain understanding, I would expect a lot more in this table. Check the explanation on Canvas to see what aspects to address here. Improved based on last feedback talk(s)                                      |
+|                  |            | Sufficient    | phase2 Data collection   | Focus on reading data, not on the entire process of collecting. Improved based on last feedback talk(s).                              |
+|                  |            | Sufficient    | phase2 Data preparation      | Difficulty finding related sections/code. Improved based on last feedback talk(s).                                                     |
+|                  |            |               |   | Actions Taken: Updated data requirements table and added a Data dictionary. Changed pie chart for House types to a bar chart. Added plots for visualizing changes in data after cleaning. Removed toilet and bedrooms from features for the final random forest. |
+| Nick Welman      | 15 December | Sparse        | phase1 Domain understanding      | Proposal lacks a proper Introduction.                                                                                                |
+|                  |            | Sparse        | phase4 Demonstration          Delivery phase is unclear, and there is no mention of inference.                                                                      |
+|                  |            | Sufficient    | phase4 Feedback    | <a href="">Explainable AI LO is addressed, but the stakeholder cannot see how your model works in the notebook.</a>                                |
+
 
