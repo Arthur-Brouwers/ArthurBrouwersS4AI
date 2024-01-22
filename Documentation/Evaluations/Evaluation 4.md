@@ -111,7 +111,7 @@ Professional Standard
     <th><strong>Explanation</strong></th>
     <td>
         <p>          
-          In securing an internship at Squadra in Oss, I demonstrated proficiency in creating opportunities aligned with my ambitions and the school's requirements. The specific assignment, although pending determination, involves webscraping for PowerEnrich and encompasses both frontend and backend work. This accomplishment contributes to the "Proficient" rating in Internship Preparation.
+          In securing an internship at Squadra in Oss, I demonstrated proficiency in creating opportunities aligned with my ambitions and the school's requirements. The specific assignment involves webscraping for PowerEnrich and encompasses both frontend and backend work. This accomplishment contributes to the "Proficient" rating in Internship Preparation.
         </p>
     </td>
   </tr>
