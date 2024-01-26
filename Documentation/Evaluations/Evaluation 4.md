@@ -50,7 +50,7 @@
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          In my personal challenge, <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">I received positive feedback from Jacco Snoeren (15th December)</a> regarding my clear explanations and understanding of the algorithms' internal workings. Jacco highlighted that I applied the three 'Explainable AI' principles effectively. Furthermore, Nick Welman (15th December) acknowledged the clarity in my comments and explanations. Although there was room for improvement in explaining the models' inner workings, I actively addressed this feedback, resulting in enhanced transparency and interpretability. The combination of positive feedback and continuous improvement efforts led to a proficiency level deemed "Proficient" in Explainable AI.
+          In my personal challenge, <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">I received positive feedback from Jacco Snoeren (15th December)</a> regarding my clear explanations and understanding of the algorithms' internal workings. I highlighted the three explainable AI principles in my open programme where additionaly I wrote a reflection on explainable AI. Furthermore, Nick Welman (15th December) acknowledged the clarity in my comments and explanations. Although there was room for improvement in explaining the models' inner workings, I actively addressed this feedback, resulting in enhanced transparency and interpretability. The combination of positive feedback and continuous improvement efforts led to a proficiency level deemed "Proficient" in Explainable AI.
         </p>
     </td>
   </tr>
@@ -71,7 +71,7 @@ Professional Standard
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-         <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">Feedback from Nick Welman (15th December)</a> emphasizes the constructive stakeholder involvement and alignment with AI methodology in my personal challenge. Despite occasional variations in the order of tasks, the overall project's adherence to industry-supported methodology is evident. The successful stakeholder engagement and positive outcomes contribute to the "Proficient" rating in Professional Standard.
+         <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">Feedback from Nick Welman (15th December)</a> emphasizes the constructive stakeholder involvement and alignment with AI methodology in my personal challenge. Despite occasional variations in the order of tasks, the overall project's adherence to industry-supported methodology is evident. In our group project, we got a compliment from Sabina for our professional attidude during the whole project. The successful stakeholder engagement and positive outcomes contribute to the "Proficient" rating in Professional Standard.
         </p>
     </td>
   </tr>
