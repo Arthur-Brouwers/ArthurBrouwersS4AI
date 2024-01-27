@@ -50,7 +50,7 @@
     <th><strong>Explanation</strong></th>
     <td>
         <p>
-          In my personal challenge, <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">I received positive feedback from Jacco Snoeren (15th December)</a> regarding my clear explanations and understanding of the algorithms' internal workings. I highlighted the three explainable AI principles in my open programme where additionaly I wrote a reflection on explainable AI. Furthermore, Nick Welman (15th December) acknowledged the clarity in my comments and explanations. Although there was room for improvement in explaining the models' inner workings, I actively addressed this feedback, resulting in enhanced transparency and interpretability. The combination of positive feedback and continuous improvement efforts led to a proficiency level deemed "Proficient" in Explainable AI.
+          In my personal challenge, <a href="https://github.com/Arthur-Brouwers/ArthurBrouwersS4AI/blob/main/Documentation/Feedback.md#personal-challenge-feedback">I received positive feedback from Jacco Snoeren (15th December)</a> regarding my clear explanations and understanding of the algorithms' internal workings. I highlighted the three explainable AI principles in my open programme where I additionaly wrote a reflection on explainable AI. The combination of positive feedback and continuous improvement efforts led to a proficiency level deemed "Proficient" in Explainable AI.
         </p>
     </td>
   </tr>
